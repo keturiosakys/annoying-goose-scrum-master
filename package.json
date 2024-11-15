@@ -1,5 +1,5 @@
 {
-  "name": "hono-neon-drizzle-template",
+  "name": "annoying-goose-scrum-master",
   "scripts": {
     "dev": "wrangler dev src/index.ts",
     "deploy": "wrangler deploy --minify src/index.ts",
@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@neondatabase/serverless": "^0.10.1",
+    "@octokit/webhooks": "^13.3.0",
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.35.3",
     "hono": "^4.6.7"
