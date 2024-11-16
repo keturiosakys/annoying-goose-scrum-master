@@ -1,3 +1,6 @@
+scripts/private-key.pem
+scripts/private-key-pkcs8.key
+
 # prod
 dist/
 
